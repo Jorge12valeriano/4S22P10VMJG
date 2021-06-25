@@ -1,0 +1,2 @@
+Nombre: jorge
+Edad: 20
